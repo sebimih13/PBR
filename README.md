@@ -1,2 +1,2 @@
 # PBR
-Physically based rendering
+Physically based rendering made with OpenGL and C++
