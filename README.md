@@ -1,5 +1,6 @@
 # PBR
-Physically based rendering made with OpenGL and C++
+Physically Based Rendering made with OpenGL and C++
+Inspired by the excellent book [Learn OpenGL: Learn modern OpenGL graphics programming in a step-by-step fashion](https://www.amazon.it/dp/9090332561?tag=joeydevrie032-21&geniuslink=true)
 
 <br />
 
